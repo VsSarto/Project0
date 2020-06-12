@@ -1,0 +1,13 @@
+$color: red;
+$color_h3: rgba(235, 14, 25, 0.8);
+
+.container {
+  h1 {
+    letter-spacing: 6px;
+    text-align: center;
+     }
+  h3 {
+      color: $color_h3;
+     }
+
+}

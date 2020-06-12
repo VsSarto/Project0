@@ -1,0 +1,58 @@
+html,
+body,
+header,
+
+@media (min-width: 992px) {
+    #indextext {
+        font-size: 4rem;
+    }
+    #title {
+        font-size: 5rem;
+    }
+}
+
+
+.view {
+  height: 100%;
+}
+
+/* #top {
+  letter-spacing: 6px;
+  text-align: center;
+} */
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title{
+  text-align: center;
+  color: rgba(235, 14, 25, 0.8);
+}
+
+.card{
+align-items: center;
+
+
+
+}
+
+.read{
+  text-align: center;
+}
+
+/* h3{
+  color: rgba(235, 14, 25, 0.8);
+} */
+
+
+.container h1 {
+	 letter-spacing: 6px;
+	 text-align: center;
+}
+ .container h3 {
+	 color: rgba(235, 14, 25, 0.8);
+}

@@ -1,9 +1,7 @@
-# VsSarto
-
-<h1>Project 0: Homepage</h1>
+<h1>Project 0: Homepage<h1>
 
 
-<h2>Objectives</h2>
+<h2>Objectives<h2>
 
 <ul>
 <li>Become more comfortable with HTML and CSS to design and style webpages.
