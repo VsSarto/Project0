@@ -1,5 +1,5 @@
 # VsSarto
-
+![](statics/index.png)
 <h1>Project 0: Homepage</h1>
 
 
@@ -28,4 +28,4 @@ HTML
 <li>
 CSS
 </li>
-![](statics/index.png)
+
