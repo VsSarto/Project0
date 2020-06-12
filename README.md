@@ -1,8 +1,5 @@
 # VsSarto
-![](statics/index.png)
-<h1>Project 0: Homepage</h1>
-
-
+![](statics/image.jpeg)
 <h2>Objectives</h2>
 
 <ul>
