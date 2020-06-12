@@ -28,3 +28,4 @@ HTML
 <li>
 CSS
 </li>
+![](statics/index.png)
